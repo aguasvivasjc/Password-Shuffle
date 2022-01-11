@@ -1,0 +1,23 @@
+* {
+    background-color: rgb(117, 195, 214);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 { 
+    margin-left: 20px;
+}
+
+h2 {
+    padding: 5px;
+    margin-left: 20px;
+    /* margin-left: 500px; */
+}
+
+/* div {
+    margin-left: 200px;
+} */
+
+div {
+    margin-top: 75px;
+    margin-left: 20px;
+}
